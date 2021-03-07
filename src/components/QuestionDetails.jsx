@@ -59,6 +59,10 @@ const StyledQuestion = styled.div`
   height: 60px;
   font-size: 24px;
   padding: 12px 0 0 12px;
+  @media (max-width: 480px) {
+    font-size: 18px;
+    padding: 6px 0 0 10px;
+  }
 `
 StyledQuestion.displayName = 'StyledQuestion'
 
