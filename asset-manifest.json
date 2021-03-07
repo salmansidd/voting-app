@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/voting-app/static/css/main.824e9ad1.chunk.css",
+    "main.js": "/voting-app/static/js/main.89e7ce7e.chunk.js",
+    "main.js.map": "/voting-app/static/js/main.89e7ce7e.chunk.js.map",
+    "runtime-main.js": "/voting-app/static/js/runtime-main.4e3ba5cc.js",
+    "runtime-main.js.map": "/voting-app/static/js/runtime-main.4e3ba5cc.js.map",
+    "static/css/2.f5543f5b.chunk.css": "/voting-app/static/css/2.f5543f5b.chunk.css",
+    "static/js/2.9116d390.chunk.js": "/voting-app/static/js/2.9116d390.chunk.js",
+    "static/js/2.9116d390.chunk.js.map": "/voting-app/static/js/2.9116d390.chunk.js.map",
+    "index.html": "/voting-app/index.html",
+    "static/css/2.f5543f5b.chunk.css.map": "/voting-app/static/css/2.f5543f5b.chunk.css.map",
+    "static/css/main.824e9ad1.chunk.css.map": "/voting-app/static/css/main.824e9ad1.chunk.css.map",
+    "static/js/2.9116d390.chunk.js.LICENSE.txt": "/voting-app/static/js/2.9116d390.chunk.js.LICENSE.txt",
+    "static/media/vote.8d8529c3.png": "/voting-app/static/media/vote.8d8529c3.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4e3ba5cc.js",
+    "static/css/2.f5543f5b.chunk.css",
+    "static/js/2.9116d390.chunk.js",
+    "static/css/main.824e9ad1.chunk.css",
+    "static/js/main.89e7ce7e.chunk.js"
+  ]
+}
