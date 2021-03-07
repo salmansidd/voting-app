@@ -1,0 +1,46 @@
+{
+  "name": "voting-app",
+  "homepage": "https://salmansidd.github.io/voting-app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^4.11.3",
+    "@material-ui/icons": "^4.11.2",
+    "@material-ui/lab": "^4.0.0-alpha.57",
+    "@types/reactstrap": "^8.7.2",
+    "axios": "^0.21.1",
+    "bootstrap": "^4.6.0",
+    "cypress": "^6.6.0",
+    "gh-pages": "^3.1.0",
+    "moment": "^2.29.1",
+    "path": "^0.12.7",
+    "prettier": "^2.2.1",
+    "react": "^17.0.1",
+    "react-bootstrap": "^1.5.1",
+    "react-dom": "^17.0.1",
+    "react-redux": "^7.2.2",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "4.0.3",
+    "reactstrap": "^6.5.0",
+    "redux": "^4.0.5",
+    "redux-thunk": "^2.3.0",
+    "styled-components": "^5.2.1"
+  },
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "cy:open": "cypress open",
+    "cy:run": "cypress run"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "question": "Favourite testing framework?",
+  "choices": [
+    "Cypress",
+    "Selenium",
+    "Serenity",
+    "WebDriverIO"
+  ]
+}
