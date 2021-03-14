@@ -5,6 +5,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 Documentation for the Polls API is available [here](https://pollsapi.docs.apiary.io/).
 The application is tested End-2-End using [Cypress Framework](https://www.cypress.io/)
 
+## Technology Stack
+
+JavaScript, React, Redux, Axios, Material UI, Styled Components and Cypress JS
+
 ## Main Features
 
 1. Provides a list of all the available questions on the Home Page
