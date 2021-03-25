@@ -2,7 +2,6 @@ import React from 'react';
 import { 
   BrowserRouter as Router,
   Route,
-  Redirect,
   Switch
 } from 'react-router-dom';
 
@@ -13,11 +12,10 @@ import QuestionDetails from 'components/QuestionDetails';
 const App = () => (
   <>
     <Router>
-      <AppBar exact path="/questions" component={HomePage} />
-      <Route exact path="/voting-app" render={() => <Redirect to="/questions" />} />
+      <AppBar />
       <Switch>
-        <Route path="/questions/:questionId" component={QuestionDetails} />
-        <Route path="/questions" component={HomePage} />"
+        <Route exact path={['/questions', '/voting-app']} component={HomePage} />
+        <Route path='/questions/:questionId' component={QuestionDetails} />
       </Switch>
     </Router>
   </>
