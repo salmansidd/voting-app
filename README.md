@@ -16,10 +16,6 @@ JavaScript, React, Redux, Axios, Material UI, Styled Components and Cypress JS
 3. Allows users to choose an option and vote for the avaiable questions
 4. Allows users to create a new poll by providing a question and multiple choices
 
-## Online Deployed Demo
-
-The Online Demo for the Voting App with complete functionality can be accessed at https://salmansidd.github.io/voting-app.
-
 ## Local Installation Guide
 
 In order to setup the project locally please follow the instructions below. In the root directory, you can run the following commands using a terminal:
